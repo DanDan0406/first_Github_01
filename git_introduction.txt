@@ -1,0 +1,9 @@
+Snapshot:
+    the entire state of the project at a particular time.
+
+Version Control:
+    The management of changes to documents, computer programs.
+
+    1. Collaboration.
+    2. Save after modification. 
+    3. tracking all files.
